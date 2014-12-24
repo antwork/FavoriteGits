@@ -12,7 +12,8 @@ github：[https://github.com/chendo/FuzzyAutocompletePlugin](https://github.com/
 
 github: [https://github.com/ksuther/KSImageNamed-Xcode
 KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)		
-![image](https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.gif)
+![image](https://raw.github.com/ksuther/KSImageNamed-Xcode/master/screenshot.gif)		
+
 KSImageNamed
 输入imageNamed:之后快速预览选择图片
 注意：项目中图片文件数量很多的时候，安装这个插件导致xcode运行明显缓慢，不知道现在版本是否已经修改了这个bug
@@ -22,5 +23,6 @@ KSImageNamed
 
 github: [https://github.com/holtwick/HOStringSense-for-Xcode](https://github.com/holtwick/HOStringSense-for-Xcode)
 HOStringSense
-![image](https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/StringDemoAnimation.gif)
+![image](https://github.com/holtwick/HOStringSense-for-Xcode/raw/master/StringDemoAnimation.gif)		
+
 帮助快速输入字符串，尤其是长段复杂的字符串。
